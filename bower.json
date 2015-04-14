@@ -1,0 +1,10 @@
+{
+  "name": "reactjs-todoApp",
+  "version": "0.0.1",
+  "main": "index.html",
+  "author": "Sergio Puas <sergio@puas.cl>",  
+  "ignore": [],
+  "dependencies": {
+    "react": "~0.13.1"
+  }
+}
