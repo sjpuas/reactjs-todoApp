@@ -2,9 +2,10 @@
   "name": "reactjs-todoApp",
   "version": "0.0.1",
   "main": "index.html",
-  "author": "Sergio Puas <sergio@puas.cl>",  
+  "author": "Sergio Puas <sergio@puas.cl>",
   "ignore": [],
   "dependencies": {
-    "react": "~0.13.1"
+    "react": "~0.13.1",
+    "jquery": "~2.1.3"
   }
 }
